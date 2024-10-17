@@ -1,0 +1,44 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Figma Design app",
+        "author": "Mbak Puput",
+        "category": "Design",
+        "image": "figma-course.png",
+        "progress": "On progress",
+        "totalHours": 1.5,
+        "totalLessons": 10
+      },
+      {
+        "id": 2,
+        "title": "Webflow Fundamental",
+        "author": "Mas Wachid",
+        "category": "Design",
+        "image": "webflow-course.png",
+        "progress": "Not started",
+        "totalHours": 2,
+        "totalLessons": 12
+      },
+      {
+        "id": 3,
+        "title": "React Native Basics",
+        "author": "John Doe",
+        "category": "Programming",
+        "image": "react-native-course.png",
+        "progress": "Completed",
+        "totalHours": 3,
+        "totalLessons": 15
+      },
+      {
+        "id": 4,
+        "title": "Python for Beginners",
+        "author": "Jane Smith",
+        "category": "Programming",
+        "image": "python-course.png",
+        "progress": "On progress",
+        "totalHours": 2.5,
+        "totalLessons": 20
+      }
+    ]
+  }
